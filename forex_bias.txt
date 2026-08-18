@@ -1,4 +1,4 @@
-Here is the medium-term directional bias analysis formatted for your EA configuration file:
+Below is the medium-term directional bias analysis for the requested 31 pair entries. The output is structured strictly in `PAIR, Bias` format for direct integration into your EA configuration file.
 
 EURUSD, Bearish
 GBPUSD, Neutral
@@ -9,25 +9,25 @@ NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bearish
+EURAUD, Neutral
 EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
 GBPJPY, Bullish
-GBPAUD, Neutral
+GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Bullish
-AUDCAD, Bullish
+AUDCAD, Neutral
 AUDCHF, Bullish
 NZDJPY, Bullish
 NZDCAD, Bearish
 NZDCHF, Neutral
 CADJPY, Bullish
-CADCHF, Neutral
+CADCHF, Bullish
 CHFJPY, Bullish
-EURAUD, Bearish
-GBPAUD, Neutral
+EURAUD, Neutral
+GBPAUD, Bullish
 AUDNZD, Bullish
