@@ -1,4 +1,7 @@
-EURUSD, Bearish
+Here is the medium-term directional bias analysis for the requested 31 pairs (based on macro divergence, central bank policy outlooks, and higher-timeframe technical structure). 
+
+```text
+EURUSD, Neutral
 GBPUSD, Neutral
 USDJPY, Bullish
 AUDUSD, Neutral
@@ -7,25 +10,26 @@ NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bearish
-EURNZD, Neutral
+EURAUD, Bullish
+EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
 GBPJPY, Bullish
-GBPAUD, Neutral
+GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Bullish
-AUDCAD, Bullish
+AUDCAD, Neutral
 AUDCHF, Bullish
 NZDJPY, Bullish
-NZDCAD, Neutral
-NZDCHF, Bullish
+NZDCAD, Bearish
+NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Neutral
-EURAUD, Bearish
-GBPAUD, Neutral
+CHFJPY, Bullish
+EURAUD, Bullish
+GBPAUD, Bullish
 AUDNZD, Bullish
+```
