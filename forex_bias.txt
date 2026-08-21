@@ -1,7 +1,9 @@
+Here is the medium-term directional bias analysis for the 31 requested currency pairs formatted for EA configuration mapping:
+
 EURUSD, Bearish
-GBPUSD, Bullish
+GBPUSD, Bearish
 USDJPY, Bullish
-AUDUSD, Neutral
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
