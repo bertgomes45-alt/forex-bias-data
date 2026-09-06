@@ -1,31 +1,35 @@
+Here is the medium-term directional bias analysis for the requested 31 currency pair configurations, based on current macro-fundamental driver divergence (interest rate policy paths, central bank stances, and macroeconomic sentiment):
+
+```text
 EURUSD, Bearish
 GBPUSD, Neutral
-USDJPY, Bullish
-AUDUSD, Neutral
+USDJPY, Bearish
+AUDUSD, Bullish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
-EURJPY, Bullish
+EURJPY, Bearish
 EURAUD, Bearish
-EURNZD, Neutral
+EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
-GBPJPY, Bullish
+GBPJPY, Bearish
 GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bullish
+AUDJPY, Bearish
 AUDNZD, Bullish
 AUDCAD, Bullish
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Bearish
 NZDCAD, Bearish
-NZDCHF, Bullish
-CADJPY, Bullish
+NZDCHF, Neutral
+CADJPY, Bearish
 CADCHF, Bullish
-CHFJPY, Neutral
+CHFJPY, Bearish
 EURAUD, Bearish
 GBPAUD, Neutral
 AUDNZD, Bullish
+```
