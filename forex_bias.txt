@@ -1,3 +1,5 @@
+Here is the medium-term directional bias for the requested 31 currency pair configurations, based on macro yield differentials, central bank policy divergence (Fed, ECB, BoE, BoJ, RBA, RBNZ, BoC, SNB), and market structure trends:
+
 EURUSD, Bearish
 GBPUSD, Bearish
 USDJPY, Bullish
@@ -8,11 +10,11 @@ USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
 EURAUD, Bearish
-EURNZD, Bullish
+EURNZD, Neutral
 EURCAD, Neutral
-EURCHF, Bullish
+EURCHF, Neutral
 GBPJPY, Bullish
-GBPAUD, Bullish
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
@@ -21,11 +23,11 @@ AUDNZD, Bullish
 AUDCAD, Bullish
 AUDCHF, Bullish
 NZDJPY, Bullish
-NZDCAD, Bearish
-NZDCHF, Bullish
+NZDCAD, Neutral
+NZDCHF, Neutral
 CADJPY, Bullish
-CADCHF, Bullish
+CADCHF, Neutral
 CHFJPY, Bullish
 EURAUD, Bearish
-GBPAUD, Bullish
+GBPAUD, Neutral
 AUDNZD, Bullish
