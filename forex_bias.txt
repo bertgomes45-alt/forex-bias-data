@@ -1,41 +1,31 @@
-Here is the medium-term directional bias analysis for the specified 31 forex pairs, based on current macro-fundamental drivers (central bank rate divergence, economic growth differentials, and yield dynamics):
-
-```text
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Neutral
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bearish
-EURNZD, Neutral
-EURCAD, Bearish
-EURCHF, Bullish
+EURAUD, Bullish
+EURNZD, Bullish
+EURCAD, Neutral
+EURCHF, Neutral
 GBPJPY, Bullish
 GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bullish
+AUDJPY, Neutral
 AUDNZD, Bullish
 AUDCAD, Neutral
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Neutral
 NZDCAD, Bearish
-NZDCHF, Neutral
+NZDCHF, Bearish
 CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Neutral
-EURAUD, Bearish
+CHFJPY, Bullish
+EURAUD, Bullish
 GBPAUD, Bullish
 AUDNZD, Bullish
-```
-
-### Core Macro Drivers Behind the Biases:
-* **USD / Majors:** The US economy continues to outperform major peers, keeping US yields supported relative to Europe and New Zealand.
-* **JPY Crosses:** Carry-trade dynamics and significant interest rate differentials keep most JPY pairs in a medium-term **Bullish** trend despite potential FX intervention risks.
-* **CHF Crosses:** The Swiss National Bank's early rate cuts weigh on the Franc, resulting in **Bullish** biases for CHF quote pairs.
-* **GBP:** Supported by the Bank of England's "higher for longer" policy stance relative to the ECB and BoC.
