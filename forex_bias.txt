@@ -1,31 +1,41 @@
+Here is the medium-term directional bias analysis for the specified 31 forex pairs, based on current macro-fundamental drivers (central bank rate divergence, economic growth differentials, and yield dynamics):
+
+```text
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Bearish
+AUDUSD, Neutral
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bullish
-EURNZD, Bullish
-EURCAD, Neutral
-EURCHF, Neutral
+EURAUD, Bearish
+EURNZD, Neutral
+EURCAD, Bearish
+EURCHF, Bullish
 GBPJPY, Bullish
 GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Neutral
-AUDNZD, Bearish
-AUDCAD, Bearish
-AUDCHF, Bearish
+AUDJPY, Bullish
+AUDNZD, Bullish
+AUDCAD, Neutral
+AUDCHF, Bullish
 NZDJPY, Bullish
-NZDCAD, Neutral
-NZDCHF, Bearish
+NZDCAD, Bearish
+NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Bullish
-EURAUD, Bullish
+CHFJPY, Neutral
+EURAUD, Bearish
 GBPAUD, Bullish
-AUDNZD, Bearish
+AUDNZD, Bullish
+```
+
+### Core Macro Drivers Behind the Biases:
+* **USD / Majors:** The US economy continues to outperform major peers, keeping US yields supported relative to Europe and New Zealand.
+* **JPY Crosses:** Carry-trade dynamics and significant interest rate differentials keep most JPY pairs in a medium-term **Bullish** trend despite potential FX intervention risks.
+* **CHF Crosses:** The Swiss National Bank's early rate cuts weigh on the Franc, resulting in **Bullish** biases for CHF quote pairs.
+* **GBP:** Supported by the Bank of England's "higher for longer" policy stance relative to the ECB and BoC.
