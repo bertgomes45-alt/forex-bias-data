@@ -1,3 +1,5 @@
+Here is the medium-term macroeconomic and technical directional bias for the exact 31 pairs listed from V6.43, formatted as requested for direct configuration mapping:
+
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
@@ -12,7 +14,7 @@ EURNZD, Neutral
 EURCAD, Neutral
 EURCHF, Bullish
 GBPJPY, Bullish
-GBPAUD, Bullish
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
@@ -27,5 +29,5 @@ CADJPY, Bullish
 CADCHF, Bullish
 CHFJPY, Bullish
 EURAUD, Bearish
-GBPAUD, Bullish
+GBPAUD, Neutral
 AUDNZD, Bullish
