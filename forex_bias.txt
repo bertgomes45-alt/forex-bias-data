@@ -1,5 +1,5 @@
 EURUSD, Bearish
-GBPUSD, Bullish
+GBPUSD, Neutral
 USDJPY, Bullish
 AUDUSD, Bearish
 USDCAD, Bullish
@@ -7,7 +7,7 @@ NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bullish
+EURAUD, Neutral
 EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
@@ -19,13 +19,13 @@ GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Neutral
 AUDCAD, Bearish
-AUDCHF, Bullish
+AUDCHF, Neutral
 NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Bullish
+NZDCHF, Neutral
 CADJPY, Bullish
-CADCHF, Bullish
-CHFJPY, Neutral
-EURAUD, Bullish
+CADCHF, Neutral
+CHFJPY, Bullish
+EURAUD, Neutral
 GBPAUD, Bullish
 AUDNZD, Neutral
