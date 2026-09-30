@@ -1,18 +1,18 @@
-Here is the medium-term directional bias analysis for the requested 31 pairs based on current macroeconomic fundamentals, central bank monetary policy divergence (Fed, BoE, ECB, RBA, RBNZ, BoC, SNB, BoJ), and yield differentials.
+Here is the medium-term directional bias analysis for the exact 31 pair instances requested, formatted for easy EA config integration:
 
 ```text
 EURUSD, Bearish
-GBPUSD, Bullish
+GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Neutral
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bearish
+EURAUD, Bullish
 EURNZD, Bullish
-EURCAD, Bullish
+EURCAD, Neutral
 EURCHF, Bullish
 GBPJPY, Bullish
 GBPAUD, Bullish
@@ -20,22 +20,16 @@ GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
-AUDNZD, Bullish
-AUDCAD, Bullish
+AUDNZD, Neutral
+AUDCAD, Neutral
 AUDCHF, Bullish
 NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Bullish
+NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
 CHFJPY, Bullish
-EURAUD, Bearish
+EURAUD, Bullish
 GBPAUD, Bullish
-AUDNZD, Bullish
+AUDNZD, Neutral
 ```
-
-### Key Fundamental Assumptions:
-* **GBP & USD:** Hawkish relative stance backed by resilient economic data and persistent inflation.
-* **AUD:** Supported by RBA hawkishness and elevated interest rate expectations relative to European/NZ counterparts.
-* **EUR, CAD, NZD:** Neutral to dovish due to ongoing rate-cutting cycles and sluggish growth.
-* **CHF & JPY:** Broadly weak due to SNB rate cuts and persistent yield divergence against the rest of the G10 currencies.
