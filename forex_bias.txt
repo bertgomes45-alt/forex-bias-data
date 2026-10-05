@@ -1,5 +1,7 @@
+Here is the medium-term directional bias breakdown for the exact 31 pairs listed, based on macro fundamentals, central bank yield differentials, and structural trend analysis:
+
 EURUSD, Bearish
-GBPUSD, Neutral
+GBPUSD, Bullish
 USDJPY, Bullish
 AUDUSD, Neutral
 USDCAD, Bullish
@@ -8,8 +10,8 @@ USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
 EURAUD, Bearish
-EURNZD, Neutral
-EURCAD, Neutral
+EURNZD, Bullish
+EURCAD, Bullish
 EURCHF, Bullish
 GBPJPY, Bullish
 GBPAUD, Bullish
@@ -24,7 +26,7 @@ NZDJPY, Bullish
 NZDCAD, Neutral
 NZDCHF, Bullish
 CADJPY, Bullish
-CADCHF, Bullish
+CADCHF, Neutral
 CHFJPY, Bullish
 EURAUD, Bearish
 GBPAUD, Bullish
