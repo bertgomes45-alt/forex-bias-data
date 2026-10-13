@@ -1,35 +1,31 @@
-Here is the medium-term directional bias breakdown for the 31 requested pair inputs, structured for direct inclusion in an Expert Advisor (EA) configuration file or setfile:
-
-```text
 EURUSD, Bearish
 GBPUSD, Neutral
-USDJPY, Bearish
+USDJPY, Bullish
 AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
-EURJPY, Bearish
+EURJPY, Bullish
 EURAUD, Bullish
 EURNZD, Bullish
-EURCAD, Bullish
+EURCAD, Neutral
 EURCHF, Bullish
-GBPJPY, Neutral
+GBPJPY, Bullish
 GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bearish
-AUDNZD, Bullish
+AUDJPY, Bullish
+AUDNZD, Neutral
 AUDCAD, Neutral
 AUDCHF, Bullish
-NZDJPY, Bearish
+NZDJPY, Bullish
 NZDCAD, Bearish
 NZDCHF, Neutral
-CADJPY, Bearish
+CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Bearish
+CHFJPY, Bullish
 EURAUD, Bullish
 GBPAUD, Bullish
-AUDNZD, Bullish
-```
+AUDNZD, Neutral
