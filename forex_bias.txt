@@ -1,43 +1,45 @@
-Here is the medium-term directional bias analysis for the 31 requested pairs, based on current macroeconomic fundamentals (central bank divergence, interest rate differentials) and medium-term technical market structures.
+Below is the medium-term directional bias analysis for the specified 31 currency pairs, based on current macro fundamentals (central bank policy divergence, interest rate outlooks, and medium-term technical trends).
 
 ### EA Configuration Output (`PAIR, Bias`)
 
+```text
 EURUSD, Bearish
-GBPUSD, Neutral
-USDJPY, Bullish
-AUDUSD, Bearish
+GBPUSD, Bullish
+USDJPY, Bearish
+AUDUSD, Bullish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
-EURJPY, Bullish
-EURAUD, Neutral
-EURNZD, Bullish
-EURCAD, Bearish
+EURJPY, Bearish
+EURAUD, Bearish
+EURNZD, Neutral
+EURCAD, Neutral
 EURCHF, Bullish
-GBPJPY, Bullish
-GBPAUD, Bullish
+GBPJPY, Neutral
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bullish
+AUDJPY, Neutral
 AUDNZD, Bullish
-AUDCAD, Bearish
+AUDCAD, Bullish
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Bearish
 NZDCAD, Bearish
-NZDCHF, Bullish
-CADJPY, Bullish
+NZDCHF, Neutral
+CADJPY, Bearish
 CADCHF, Bullish
-CHFJPY, Bullish
-EURAUD, Neutral
-GBPAUD, Bullish
+CHFJPY, Bearish
+EURAUD, Bearish
+GBPAUD, Neutral
 AUDNZD, Bullish
+```
 
 ---
 
-### Key Macro Drivers Behind the Bias:
-* **USD (Strong / Neutral-Bullish):** Supported by resilient US economic performance and delayed Federal Reserve rate cuts relative to other major central banks.
-* **EUR & CHF (Bearish):** Weak European growth outlook and earlier/more aggressive rate cuts from the ECB and SNB keep these currencies subdued against major peers.
-* **GBP (Strong / Neutral-Bullish):** Persistent domestic inflation keeps Bank of England rates elevated relative to the ECB and SNB.
-* **JPY (Weak / Trend Continuation):** Despite BOJ policy normalization efforts, wide yield differentials continue to favor long carry trades on JPY crosses over the medium term.
+### Core Macro Drivers Behind the Biases:
+* **JPY (Bullish/Rebound Potential):** BOJ rate normalization trends and unwinding carry trades favor JPY strength against weaker yielding currencies over the medium term.
+* **GBP & AUD (Relatively Bullish):** Hawkish central bank stances relative to peers (BOE sticky inflation, RBA rate hold strategy) provide underlying support.
+* **EUR & NZD (Relatively Bearish):** Active rate cut cycles from ECB and RBNZ in response to weaker growth dynamics keep medium-term pressure on EUR and NZD cross-pairs.
+* **USD & CAD (Neutral/Balanced):** Fed rate cuts priced in balanced against soft-landing expectations; BOC dovish cuts offset CAD upside.
