@@ -1,45 +1,33 @@
-Below is the medium-term directional bias analysis for the specified 31 currency pairs, based on current macro fundamentals (central bank policy divergence, interest rate outlooks, and medium-term technical trends).
+Here is the medium-term directional bias analysis for the 31 forex pairs, formatted cleanly for direct EA configuration mapping (`PAIR, Bias`):
 
-### EA Configuration Output (`PAIR, Bias`)
-
-```text
 EURUSD, Bearish
-GBPUSD, Bullish
+GBPUSD, Neutral
 USDJPY, Bearish
-AUDUSD, Bullish
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bearish
-EURAUD, Bearish
-EURNZD, Neutral
-EURCAD, Neutral
-EURCHF, Bullish
-GBPJPY, Neutral
-GBPAUD, Neutral
+EURAUD, Neutral
+EURNZD, Bullish
+EURCAD, Bearish
+EURCHF, Neutral
+GBPJPY, Bearish
+GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Neutral
+AUDJPY, Bearish
 AUDNZD, Bullish
-AUDCAD, Bullish
-AUDCHF, Bullish
+AUDCAD, Neutral
+AUDCHF, Bearish
 NZDJPY, Bearish
 NZDCAD, Bearish
-NZDCHF, Neutral
+NZDCHF, Bearish
 CADJPY, Bearish
-CADCHF, Bullish
+CADCHF, Bearish
 CHFJPY, Bearish
-EURAUD, Bearish
-GBPAUD, Neutral
+EURAUD, Neutral
+GBPAUD, Bullish
 AUDNZD, Bullish
-```
-
----
-
-### Core Macro Drivers Behind the Biases:
-* **JPY (Bullish/Rebound Potential):** BOJ rate normalization trends and unwinding carry trades favor JPY strength against weaker yielding currencies over the medium term.
-* **GBP & AUD (Relatively Bullish):** Hawkish central bank stances relative to peers (BOE sticky inflation, RBA rate hold strategy) provide underlying support.
-* **EUR & NZD (Relatively Bearish):** Active rate cut cycles from ECB and RBNZ in response to weaker growth dynamics keep medium-term pressure on EUR and NZD cross-pairs.
-* **USD & CAD (Neutral/Balanced):** Fed rate cuts priced in balanced against soft-landing expectations; BOC dovish cuts offset CAD upside.
