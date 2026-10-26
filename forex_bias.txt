@@ -1,33 +1,35 @@
-Here is the medium-term directional bias breakdown for the exact 31 pairs specified, formatted cleanly as `PAIR, Bias` for direct use in an Expert Advisor configuration file:
+Here is the medium-term directional bias breakdown for the specified 31 forex pairs, structured for direct configuration mapping:
 
-EURUSD, Bearish
-GBPUSD, Neutral
-USDJPY, Bullish
-AUDUSD, Neutral
-USDCAD, Bullish
+```text
+EURUSD, Neutral
+GBPUSD, Bullish
+USDJPY, Bearish
+AUDUSD, Bullish
+USDCAD, Bearish
 NZDUSD, Bearish
-USDCHF, Bullish
+USDCHF, Bearish
 EURGBP, Bearish
-EURJPY, Bullish
+EURJPY, Bearish
 EURAUD, Bearish
-EURNZD, Neutral
+EURNZD, Bullish
 EURCAD, Neutral
-EURCHF, Bullish
-GBPJPY, Bullish
-GBPAUD, Bullish
+EURCHF, Neutral
+GBPJPY, Bearish
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bullish
+AUDJPY, Bearish
 AUDNZD, Bullish
 AUDCAD, Bullish
 AUDCHF, Bullish
-NZDJPY, Bullish
-NZDCAD, Neutral
-NZDCHF, Bullish
-CADJPY, Bullish
-CADCHF, Bullish
-CHFJPY, Neutral
+NZDJPY, Bearish
+NZDCAD, Bearish
+NZDCHF, Bearish
+CADJPY, Bearish
+CADCHF, Neutral
+CHFJPY, Bearish
 EURAUD, Bearish
-GBPAUD, Bullish
+GBPAUD, Neutral
 AUDNZD, Bullish
+```
