@@ -1,8 +1,5 @@
-Here is the medium-term directional bias breakdown formatted directly for EA configuration mapping:
-
-```text
 EURUSD, Bearish
-GBPUSD, Neutral
+GBPUSD, Bullish
 USDJPY, Bullish
 AUDUSD, Neutral
 USDCAD, Bullish
@@ -12,24 +9,23 @@ EURGBP, Bearish
 EURJPY, Bullish
 EURAUD, Bearish
 EURNZD, Bullish
-EURCAD, Neutral
+EURCAD, Bearish
 EURCHF, Bullish
 GBPJPY, Bullish
-GBPAUD, Neutral
+GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Bullish
-AUDCAD, Neutral
+AUDCAD, Bullish
 AUDCHF, Bullish
 NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Bullish
+NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Bearish
+CHFJPY, Bullish
 EURAUD, Bearish
-GBPAUD, Neutral
+GBPAUD, Bullish
 AUDNZD, Bullish
-```
