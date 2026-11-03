@@ -1,3 +1,5 @@
+Here is the medium-term directional bias analysis for the requested 31 pairs formatted for direct inclusion into an Expert Advisor (EA) configuration file:
+
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
@@ -9,7 +11,7 @@ EURGBP, Bearish
 EURJPY, Bullish
 EURAUD, Bullish
 EURNZD, Bullish
-EURCAD, Bearish
+EURCAD, Neutral
 EURCHF, Bullish
 GBPJPY, Bullish
 GBPAUD, Bullish
@@ -20,7 +22,7 @@ AUDJPY, Bullish
 AUDNZD, Bullish
 AUDCAD, Neutral
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Neutral
 NZDCAD, Bearish
 NZDCHF, Neutral
 CADJPY, Bullish
