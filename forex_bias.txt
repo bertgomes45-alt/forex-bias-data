@@ -1,18 +1,15 @@
-Here is the medium-term directional bias analysis for the 31 requested pairs. 
+Here is the medium-term directional bias breakdown for the requested 31 pairs, formatted strictly as `PAIR, Bias` for direct use in your EA configuration file:
 
-### Configuration Output (Ready to Copy/Paste)
-
-```text
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Bearish
+AUDUSD, Neutral
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bullish
+EURAUD, Neutral
 EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
@@ -31,16 +28,6 @@ NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
 CHFJPY, Bullish
-EURAUD, Bullish
+EURAUD, Neutral
 GBPAUD, Bullish
 AUDNZD, Bullish
-```
-
----
-
-### Key Macro Drivers Behind the Bias Matrix:
-
-1. **JPY Weakness (Bullish XXXJPY Pairs):** Yield differentials remain wide despite BoJ interest rate adjustments. Carry-trade demand continues to keep JPY under medium-term pressure across all major crosses.
-2. **USD Resilience (Bullish USDXXX / Bearish XXXUSD):** Sticky inflation and delayed monetary easing relative to global peers support the USD in the medium term.
-3. **CHF Underperformance (Bullish XXXCHF Pairs):** The Swiss National Bank (SNB) kicked off the rate-cutting cycle earlier than other central banks, weakening CHF.
-4. **GBP Relative Strength (Bullish GBP Crosses):** The Bank of England remains relatively cautious on cutting rates due to persistent service inflation, giving GBP an edge over EUR, AUD, and NZD.
