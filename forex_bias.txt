@@ -1,15 +1,17 @@
+Here is the medium-term directional bias breakdown for the specified 31 forex pairs, formatted cleanly for direct EA configuration mapping:
+
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Bullish
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
 EURAUD, Bearish
-EURNZD, Bullish
-EURCAD, Neutral
+EURNZD, Neutral
+EURCAD, Bullish
 EURCHF, Bullish
 GBPJPY, Bullish
 GBPAUD, Neutral
@@ -22,10 +24,10 @@ AUDCAD, Bullish
 AUDCHF, Bullish
 NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Neutral
+NZDCHF, Bullish
 CADJPY, Bullish
-CADCHF, Bullish
-CHFJPY, Neutral
+CADCHF, Neutral
+CHFJPY, Bullish
 EURAUD, Bearish
 GBPAUD, Neutral
 AUDNZD, Bullish
