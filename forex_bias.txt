@@ -1,45 +1,31 @@
-Here is the medium-term directional bias analysis based on current macroeconomic fundamentals, central bank policy divergence (Fed, ECB, BoE, BoJ, RBNZ, RBA, SNB, BoC), and medium-term trend structures.
-
-### Key Macro Drivers Supporting the Bias:
-* **USD:** **Neutral to Bullish** – Persistent US inflation and resilient economic data keep Federal Reserve rate cuts delayed relative to G10 peers.
-* **JPY:** **Bearish** – Despite the Bank of Japan ending negative interest rates, ultra-low yields keep the Yen heavily suppressed in carry trade environments.
-* **CHF:** **Bearish** – The Swiss National Bank (SNB) led G10 central banks in cutting rates, creating downside momentum against high-yielders.
-* **GBP/AUD vs NZD/CAD:** UK inflation stickiness supports **GBP**, while softer economic data from New Zealand and early BoC rate cuts drag on **NZD** and **CAD**.
-
----
-
-### Configuration File Output (V6.43 Mapping Format)
-
-```csv
-EURUSD, Bearish
-GBPUSD, Neutral
-USDJPY, Bullish
-AUDUSD, Bearish
-USDCAD, Bullish
-NZDUSD, Bearish
-USDCHF, Bullish
+EURUSD, Neutral
+GBPUSD, Bullish
+USDJPY, Bearish
+AUDUSD, Bullish
+USDCAD, Bearish
+NZDUSD, Neutral
+USDCHF, Bearish
 EURGBP, Bearish
-EURJPY, Bullish
-EURAUD, Bullish
+EURJPY, Neutral
+EURAUD, Bearish
 EURNZD, Bullish
 EURCAD, Neutral
-EURCHF, Bullish
+EURCHF, Bearish
 GBPJPY, Bullish
-GBPAUD, Bullish
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Bullish
-AUDCAD, Neutral
+AUDCAD, Bullish
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Neutral
 NZDCAD, Bearish
-NZDCHF, Neutral
-CADJPY, Bullish
-CADCHF, Bullish
+NZDCHF, Bearish
+CADJPY, Neutral
+CADCHF, Neutral
 CHFJPY, Bullish
-EURAUD, Bullish
-GBPAUD, Bullish
+EURAUD, Bearish
+GBPAUD, Neutral
 AUDNZD, Bullish
-```
