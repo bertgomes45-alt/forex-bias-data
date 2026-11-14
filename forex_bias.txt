@@ -1,5 +1,18 @@
-EURUSD, Neutral
-GBPUSD, Bullish
+Here is the medium-term directional bias analysis based on current macroeconomic fundamentals, central bank policy divergence (Fed, ECB, BoE, BoJ, RBNZ, RBA, SNB, BoC), and medium-term trend structures.
+
+### Key Macro Drivers Supporting the Bias:
+* **USD:** **Neutral to Bullish** – Persistent US inflation and resilient economic data keep Federal Reserve rate cuts delayed relative to G10 peers.
+* **JPY:** **Bearish** – Despite the Bank of Japan ending negative interest rates, ultra-low yields keep the Yen heavily suppressed in carry trade environments.
+* **CHF:** **Bearish** – The Swiss National Bank (SNB) led G10 central banks in cutting rates, creating downside momentum against high-yielders.
+* **GBP/AUD vs NZD/CAD:** UK inflation stickiness supports **GBP**, while softer economic data from New Zealand and early BoC rate cuts drag on **NZD** and **CAD**.
+
+---
+
+### Configuration File Output (V6.43 Mapping Format)
+
+```csv
+EURUSD, Bearish
+GBPUSD, Neutral
 USDJPY, Bullish
 AUDUSD, Bearish
 USDCAD, Bullish
@@ -18,14 +31,15 @@ GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
 AUDNZD, Bullish
-AUDCAD, Bearish
-AUDCHF, Neutral
-NZDJPY, Neutral
+AUDCAD, Neutral
+AUDCHF, Bullish
+NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Bearish
+NZDCHF, Neutral
 CADJPY, Bullish
 CADCHF, Bullish
 CHFJPY, Bullish
 EURAUD, Bullish
 GBPAUD, Bullish
 AUDNZD, Bullish
+```
