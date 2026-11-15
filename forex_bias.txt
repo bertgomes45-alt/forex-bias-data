@@ -20,11 +20,11 @@ AUDJPY, Bullish
 AUDNZD, Bullish
 AUDCAD, Neutral
 AUDCHF, Bullish
-NZDJPY, Bullish
+NZDJPY, Neutral
 NZDCAD, Bearish
 NZDCHF, Neutral
 CADJPY, Bullish
-CADCHF, Bullish
+CADCHF, Neutral
 CHFJPY, Bullish
 EURAUD, Neutral
 GBPAUD, Bullish
