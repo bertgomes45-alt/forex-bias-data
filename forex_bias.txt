@@ -1,13 +1,16 @@
+Here is the medium-term directional bias for the exact 31 pairs listed in your V6.43 sequence, based on current macro-economic interest rate differentials and high-tf market structure trends.
+
+```text
 EURUSD, Bearish
 GBPUSD, Neutral
 USDJPY, Bullish
-AUDUSD, Neutral
+AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
 USDCHF, Bullish
 EURGBP, Bearish
 EURJPY, Bullish
-EURAUD, Bearish
+EURAUD, Bullish
 EURNZD, Bullish
 EURCAD, Neutral
 EURCHF, Bullish
@@ -17,15 +20,16 @@ GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
 AUDJPY, Bullish
-AUDNZD, Bullish
-AUDCAD, Bullish
+AUDNZD, Neutral
+AUDCAD, Neutral
 AUDCHF, Bullish
 NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Neutral
+NZDCHF, Bullish
 CADJPY, Bullish
 CADCHF, Bullish
-CHFJPY, Neutral
-EURAUD, Bearish
+CHFJPY, Bullish
+EURAUD, Bullish
 GBPAUD, Bullish
-AUDNZD, Bullish
+AUDNZD, Neutral
+```
