@@ -1,45 +1,33 @@
-Here is the medium-term directional bias analysis for the 31 requested currency pairs based on current macroeconomic trends, central bank policy divergence (Fed, BoE, ECB, BoJ, RBNZ, RBA, BoC, SNB), and medium-term technical structures.
+Here is the medium-term directional bias breakdown for the exact 31 pairs listed, formatted for direct copy-pasting into an EA configuration file:
 
-### EA Configuration Output (`PAIR, Bias`)
-
-```text
-EURUSD, Neutral
-GBPUSD, Bullish
-USDJPY, Bearish
-AUDUSD, Bearish
+EURUSD, Bearish
+GBPUSD, Neutral
+USDJPY, Bullish
+AUDUSD, Neutral
 USDCAD, Bullish
 NZDUSD, Bearish
-USDCHF, Neutral
+USDCHF, Bullish
 EURGBP, Bearish
-EURJPY, Bearish
-EURAUD, Bullish
+EURJPY, Bullish
+EURAUD, Bearish
 EURNZD, Bullish
 EURCAD, Neutral
-EURCHF, Neutral
-GBPJPY, Neutral
-GBPAUD, Bullish
+EURCHF, Bullish
+GBPJPY, Bullish
+GBPAUD, Neutral
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Bearish
-AUDNZD, Neutral
-AUDCAD, Bearish
-AUDCHF, Bearish
-NZDJPY, Bearish
+AUDJPY, Bullish
+AUDNZD, Bullish
+AUDCAD, Bullish
+AUDCHF, Bullish
+NZDJPY, Bullish
 NZDCAD, Bearish
-NZDCHF, Bearish
-CADJPY, Bearish
-CADCHF, Neutral
-CHFJPY, Bearish
-EURAUD, Bullish
-GBPAUD, Bullish
-AUDNZD, Neutral
-```
-
----
-
-### Key Macro Drivers Behind the Biases:
-* **GBP Strength (Bullish GBP Crosses):** The Bank of England remains relatively hawkish compared to peers due to sticky core inflation, supporting GBP across the board.
-* **JPY Recovery (Bearish JPY Crosses / USDJPY):** Policy normalization by the Bank of Japan combined with unwinding carry trades maintains medium-term downward pressure on JPY pairs.
-* **Antipodean Weakness (Bearish AUD / NZD):** Dovish policy shifts by the RBNZ/RBA alongside persistent economic weakness in China weigh heavily on AUD and NZD.
-* **USD / EUR / CAD / CHF Neutrality:** Range-bound dynamics driven by synchronous monetary easing cycles across major Western central banks.
+NZDCHF, Neutral
+CADJPY, Bullish
+CADCHF, Bullish
+CHFJPY, Bullish
+EURAUD, Bearish
+GBPAUD, Neutral
+AUDNZD, Bullish
