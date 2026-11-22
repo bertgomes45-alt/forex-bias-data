@@ -1,31 +1,45 @@
-EURUSD, Bearish
-GBPUSD, Neutral
-USDJPY, Bullish
+Here is the medium-term directional bias analysis for the 31 requested currency pairs based on current macroeconomic trends, central bank policy divergence (Fed, BoE, ECB, BoJ, RBNZ, RBA, BoC, SNB), and medium-term technical structures.
+
+### EA Configuration Output (`PAIR, Bias`)
+
+```text
+EURUSD, Neutral
+GBPUSD, Bullish
+USDJPY, Bearish
 AUDUSD, Bearish
 USDCAD, Bullish
 NZDUSD, Bearish
-USDCHF, Bullish
+USDCHF, Neutral
 EURGBP, Bearish
-EURJPY, Neutral
-EURAUD, Neutral
-EURNZD, Neutral
-EURCAD, Bullish
-EURCHF, Bearish
-GBPJPY, Bullish
+EURJPY, Bearish
+EURAUD, Bullish
+EURNZD, Bullish
+EURCAD, Neutral
+EURCHF, Neutral
+GBPJPY, Neutral
 GBPAUD, Bullish
 GBPNZD, Bullish
 GBPCAD, Bullish
 GBPCHF, Bullish
-AUDJPY, Neutral
-AUDNZD, Bullish
-AUDCAD, Bullish
+AUDJPY, Bearish
+AUDNZD, Neutral
+AUDCAD, Bearish
 AUDCHF, Bearish
 NZDJPY, Bearish
-NZDCAD, Neutral
+NZDCAD, Bearish
 NZDCHF, Bearish
 CADJPY, Bearish
-CADCHF, Bearish
-CHFJPY, Bullish
-EURAUD, Neutral
+CADCHF, Neutral
+CHFJPY, Bearish
+EURAUD, Bullish
 GBPAUD, Bullish
-AUDNZD, Bullish
+AUDNZD, Neutral
+```
+
+---
+
+### Key Macro Drivers Behind the Biases:
+* **GBP Strength (Bullish GBP Crosses):** The Bank of England remains relatively hawkish compared to peers due to sticky core inflation, supporting GBP across the board.
+* **JPY Recovery (Bearish JPY Crosses / USDJPY):** Policy normalization by the Bank of Japan combined with unwinding carry trades maintains medium-term downward pressure on JPY pairs.
+* **Antipodean Weakness (Bearish AUD / NZD):** Dovish policy shifts by the RBNZ/RBA alongside persistent economic weakness in China weigh heavily on AUD and NZD.
+* **USD / EUR / CAD / CHF Neutrality:** Range-bound dynamics driven by synchronous monetary easing cycles across major Western central banks.
